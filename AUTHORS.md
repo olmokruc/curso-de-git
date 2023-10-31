@@ -1,3 +1,5 @@
 # AUTHORS
 
-* Olmo Páez Ariza
+* Olmo Páez Ariza <opaeari2304@g.educaand.es>
+
+* Juanma
